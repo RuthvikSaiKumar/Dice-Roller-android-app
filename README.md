@@ -2,7 +2,7 @@
 
 This is a very basic android app which contains a `Button` to roll the dice and a `TextView` to display a random number from 1 to 6.
 
-### To download the apk -> see releases > assets
+### To download the apk -> see releases > assets > app-debug.apk
 
 ### A screenshot of my app 👇
 
